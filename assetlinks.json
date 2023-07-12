@@ -1,0 +1,17 @@
+
+---
+layout: none
+permalink: .well-known/assetlinks.json
+---
+
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mayhem.ugw",
+      "sha256_cert_fingerprints":
+        ["22:59:AE:BD:A1:CC:57:D6:DA:C8:44:20:3A:A7:B8:5A:BB:BD:AD:AD:08:EA:C0:70:A2:95:7B:8E:62:60:29:A5"]
+    }
+  }
+]
